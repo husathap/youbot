@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Contexts Voice="" Name="ELIZA's doge" Greet="Wow! Much problem. Do tell.">
+  <Context Words="depressed">Much sadness. So sad.</Context>
+  <Context Words="happy">Very happy. Such like.</Context>
+  <Context Words="sad">Much gloomy. Darkness.</Context>
+  <Context Words="fear">So scared. Be happy.</Context>
+  <Context Words="disgust">Much ew. So dirty. Where clean?</Context>
+  <Context Words="anger">Such violent. Be calm.</Context>
+  <Context Words="concentrate">Focus. Deep breath! Much rest!</Context>
+  <Context Words="lolcat">Nemesis. Much hate!</Context>
+  <Context Words="moody">Such extremes! Concentrate.</Context>
+  <Context Words="color">Various! Rainbow! Much colors!</Context>
+  <Context Words="can">Yes, we can!</Context>
+  <Context Words="cannot">No, we can!</Context>
+  <Context Words="should">My gut says should!</Context>
+  <Context Words="cat">Where? Want fight!</Context>
+  <Context Words="stick">Throw pls! Want fetch!</Context>
+  <Context Words="evil">Much darkness! So gloomy!</Context>
+  <Context Words="good">Very good! Much nice!</Context>
+  <Context Words="veggie">Disgusted. No eat! Much bitter!</Context>
+  <Context Words="disorder">Much disarray. Must order!</Context>
+  <Context Words="aneroxia">No food? Should eat!</Context>
+  <Context Words="obsessive">Calm down!</Context>
+  <Context Words="compulsive">Need controls!</Context>
+  <Context Words="sick">Much weak. So cure!</Context>
+  <Context Words="yolo">Have care! Be smart!</Context>
+  <Context Words="mark">Oh, hai mark!</Context>
+  <Context Words="task">Must perform, will do!</Context>
+  <Context Words="food">Where is? Must eat!</Context>
+  <Context Words="mother">Much freud? Very psychoanalysis!</Context>
+</Contexts>

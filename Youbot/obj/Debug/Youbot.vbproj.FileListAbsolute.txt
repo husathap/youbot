@@ -1,0 +1,27 @@
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\ApplicationIcon.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\ELIZADoge.xml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Youbot.dll
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Youbot.pdb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Youbot.xml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\AppManifest.xaml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\My Project\WMAppManifest.xml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Youbot_Debug_AnyCPU.xap
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\App.g.i.vb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Chat.g.i.vb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\MainPage.g.i.vb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.g.resources
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.AppResources.resources
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.vbproj.GenerateResource.Cache
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.dll
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.xml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.pdb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\XapCacheFile.xml
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\obj\Debug\Create.g.i.vb
+c:\Users\Hubert\Documents\Visual Studio 2012\Projects\Youbot\Youbot\Bin\Debug\you.xml
+C:\Users\Hubert\documents\visual studio 2012\Projects\Youbot\Youbot\obj\Debug\Youbot.vbprojResolveAssemblyReference.cache

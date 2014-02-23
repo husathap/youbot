@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Youbot
+</name>
+</assembly>
+<members>
+<member name="P:Youbot.Bot.Name">
+	<summary>
+ The name of the bot.
+ </summary>
+	<value>The new name.</value>
+	<returns>The name of the bot.</returns>
+</member><member name="P:Youbot.Bot.Voice">
+	<summary>
+ The name of the string that the bot is using.
+ </summary>
+	<value>A new voice that the bot can use.</value>
+	<returns>The current voice that the bot is using.</returns>
+</member><member name="P:Youbot.Bot.Contexts">
+	<summary>
+ This contains contexts (key words) and the word that the bot will utter back if
+ it hears the word.
+ </summary>
+</member><member name="M:Youbot.Bot.#ctor(System.String)">
+	<summary>
+ Create a new bot by importing strings from an xml file.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:Youbot.Bot">
+	<summary>
+ This class contains required information for creating a bot.
+ </summary>
+</member><member name="M:Youbot.Chat.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Youbot.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:Youbot.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="T:Youbot.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
+</member><member name="M:Youbot.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Youbot.Create.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Youbot.AppResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Youbot.AppResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Youbot.AppResources.ResourceFlowDirection">
+	<summary>
+  Looks up a localized string similar to LeftToRight.
+</summary>
+</member><member name="P:Youbot.AppResources.ResourceLanguage">
+	<summary>
+  Looks up a localized string similar to us-EN.
+</summary>
+</member><member name="P:Youbot.AppResources.ApplicationTitle">
+	<summary>
+  Looks up a localized string similar to MY APPLICATION.
+</summary>
+</member><member name="P:Youbot.AppResources.AppBarButtonText">
+	<summary>
+  Looks up a localized string similar to button.
+</summary>
+</member><member name="P:Youbot.AppResources.AppBarMenuItemText">
+	<summary>
+  Looks up a localized string similar to Menu Item.
+</summary>
+</member><member name="T:Youbot.AppResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Youbot.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
